@@ -1,2 +1,35 @@
-# TerminalJava
-Programa con apariencia de una terminal para ejecutarse en Linux, con comandos propios.
+# HeroXTerminal
+
+HeroXTerminal es una simulación de terminal que ejecuta comandos de Linux, además de incluir comandos predefinidos propios. La interfaz gráfica utiliza Java y Swing.
+
+## Autores
+
+- [Joel Cárdenas](https://github.com/Jasov)
+- [Nombre del Autor 2](enlace-al-perfil-github-del-autor2)
+
+## Requisitos
+
+- Tener Java instalado en el sistema.
+
+## Instrucciones de Uso
+
+1. Clona el repositorio o descarga el código fuente.
+2. Abre una terminal y navega al directorio donde se encuentra el código.
+3. Compila el programa Java:
+    ```bash
+    javac Terminal.java
+    ```
+4. Ejecuta el programa:
+    ```bash
+    java Terminal
+    ```
+
+## Características
+
+- Personalización de colores de la terminal y del panel izquierdo.
+- Comandos predefinidos: `pintar`, `tematica`, `personalizar`, `fiesta`.
+- Simulador de Paint integrado.
+
+
+**¡Diviértete usando HeroXTerminal!**
+
