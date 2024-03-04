@@ -4,8 +4,10 @@ HeroXTerminal es una simulación de terminal que ejecuta comandos de Linux, adem
 
 ## Autores
 
+- [Raquel Bascones](enlace)
+- [Isabella Huerta](enlace)
+- [Ingrid Carvalhais](enlace)
 - [Joel Cárdenas](https://github.com/Jasov)
-- [Nombre del Autor 2](enlace-al-perfil-github-del-autor2)
 
 ## Requisitos
 
